@@ -1,5 +1,5 @@
 # TikTok Data Analysis: An End-to-End Project
-![](tiktok)
+![](tiktok.jpg)
 
 Welcome to the TikTok Data Team's **End-to-End Analysis Project**! This project simulates a real-world scenario where data storytelling and actionable insights drive decision-making. As a Data Analyst on this team, I worked through each stage of the analytical process to solve key challenges and answer pressing research questions.
 
